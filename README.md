@@ -3,3 +3,12 @@ Tools for QA Engineers built to make your daily tasks easier. Most of the tools 
 
 <h1>Test Cases & User Stories</h1>
 <p>This tool is built using <i>text-davinci-003</i> engine. Using this tool you can easily generate test cases and user stories for the mobile app you're testing. It simply asks you to enter name and description of screen you're testing as well as every elements and its description on that screen. Based on your input it will generate cases and then ask you if you want user stories too. Keep in mind that you need to add your OpenAI API key by modifying <i>openai.api_key = "YOUR KEY"<i></p>
+
+<p>Example of generated test cases:</p>
+<img src="https://prnt.sc/hiKHVPqdIOFP">
+
+
+<p>Example of generated user stories:</p>
+<img src="https://prnt.sc/Gg8oX7IdTEl-">
+
+<p>Keep in mind that results will never be 100% perfect and correct and you will still need to do some modification, but at least it will give you an idea in what direction to go while testing. You can always modify the prompt and make it better, add more detailed description of each element and probably get better results.</p>
