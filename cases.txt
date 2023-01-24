@@ -1,0 +1,22 @@
+
+
+1. Verify that the page can be accessed by entering the right URL in the browser.
+2. Verify the check the page layout, font style and alignment of text etc.
+3. Verify that the ‘Username’ and ‘Password’ fields are visible and active on the Phantom screen.
+4. Verify that the ‘Submit’ button is visible and active on the Phantom screen.
+5. Verify that the ‘Username’ and ‘Password’ fields accept valid entries only.
+6. Verify the password field is masked properly so that the characters are not visible.
+7. Test the combination of numbers and special characters in the ‘Username’ and ‘Password’ fields.
+8. Verify that minimum and maximum length of entries in the ‘Username’ and ‘Password’ fields are not exceeded.
+9. Verify that the ‘Submit’ button is non-responsive when information is missing from either ‘Username’ or ‘Password’ field.
+10. Verify that the page fails and displays an error message when an invalid ‘Username’ is entered.
+11. Verify that the page fails and displays an error message when an invalid ‘Password’ is entered.
+12. Verify that the page successfully navigates to the desired page when valid ‘Username’ and ‘Password’ are entered.
+13. Verify that the ‘Submit’ button is non-responsive when ‘Username’ and ‘Password’ fields are left blank.
+14. Verify that there is a link to the ‘Forgot Password’ page.
+15. Verify that the user can successfully reset the password by providing the valid credentials.
+16. Verify that the user can reset the password with a valid email address.
+17. Verify that the ‘Submit’ button is disabled when the ‘Username’ field is left blank.
+18. Verify that the ‘Submit’ button is disabled when the ‘Password’ field is left blank.
+19. Verify that the page fails and displays an error message when an invalid ‘Username’ and ‘Password’ are entered.
+20. Verify that user gets logged out after a certain period of time.

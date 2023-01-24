@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "YOUR API KEY"
+openai.api_key = ""
 
 
 def generate_test_cases_with_input(num_cases):
